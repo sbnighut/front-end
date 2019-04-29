@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 
 class Title extends Component{
     render(){
-        return (<h1>Stocks Results</h1>);
+        return (<h1>{this.props.title}</h1>);
     }
 }
 
