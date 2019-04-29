@@ -19,7 +19,6 @@ const posts = [{
     imageLink: "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/08/24/104670887-VacationExplainsTHUMBWEB.1910x1000.jpg"
 }]
 
-
 class Main extends Component {
     render() {
         return <div>
